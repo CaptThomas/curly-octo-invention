@@ -1,1 +1,2 @@
 # curly-octo-invention
+This is a website developed for testing purposes only. Please do not commit to it unless you are just testing something out or are suggesting new features. See index.html for the homepage.
